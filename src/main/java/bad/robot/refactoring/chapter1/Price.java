@@ -1,4 +1,4 @@
 package bad.robot.refactoring.chapter1;
-public class Price Main {
+public abstract class Price {
     abstract int getPriceCode();
 }
